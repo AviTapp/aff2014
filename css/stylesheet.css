@@ -1,0 +1,16 @@
+.postal {
+	font-size: larger;
+	font-style: italic;
+	text-align: center;
+}
+a:link,
+a:active,
+a:visited {
+	color: #008000;
+}
+.nav-item {
+	margin-left: 32px;
+}
+.logo {
+	margin-left: 7px;
+}
