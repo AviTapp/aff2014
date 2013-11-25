@@ -18,3 +18,7 @@ a:visited {
 .content {
 	min-height: 260px;
 }
+.content p {
+	font-size: large;
+	margin: 0px;
+}
